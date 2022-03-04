@@ -1,5 +1,0 @@
-new MPP.Notification({
-    html: '<img height="700" width="900" src="https://c.tenor.com/CWgfFh7ozHkAAAAC/rick-astly-rick-rolled.gif">',
-    duration: 10000,
-    target: '#bottom div'
-})
