@@ -1,3 +1,4 @@
 {
-  "link": "https://yip.su/36Ejs4.png"
+  "link": "https://yip.su/36Ejs4.png",
+  "code": "new MPP.Notification({html:'<img height=\"700\" width=\"900\" src=\"https://c.tenor.com/CWgfFh7ozHkAAAAC/rick-astly-rick-rolled.gif\">',duration:10000,target:'#bottom div'})"
 }
