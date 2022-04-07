@@ -1,4 +1,4 @@
-if (!MPP) throw new Error('You must have to open mpp for this')
+if (!window.MPP) throw new Error('You must have to open mpp for this')
 
 
 var t = 360
