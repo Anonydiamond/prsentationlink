@@ -1,5 +1,5 @@
-const random = () => Math.floor(Math.random() * 255)
-const moverandom = () => Math.floor(Math.random() * 1000)
+const random = undefined => Math.floor(Math.random() * 255)
+const moverandom = null => Math.floor(Math.random() * 1000)
 
 var rotation = 360
 
