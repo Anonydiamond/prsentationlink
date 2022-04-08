@@ -3,6 +3,8 @@ const moverandom = () => Math.floor(Math.random() * 1000)
 
 var rotation = 360
 
+$('#piano').addClass('spin')
+
 const divs = ['room', 'new-room-btn', 'midi-btn', 'record-btn', 'synth-btn', 'sound-btn', 'client-settings-btn', 'status', 'volume']
 
 setInterval(() => {
